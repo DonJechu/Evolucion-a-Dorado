@@ -1,0 +1,26 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/golden_carrot"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/golden_carrot/golden_baked_potato"},
+		{"predicate": {"custom_model_data":2}, "model": "item/golden_carrot/golden_beetroot"},
+		{"predicate": {"custom_model_data":3}, "model": "item/golden_carrot/golden_bread"},
+		{"predicate": {"custom_model_data":4}, "model": "item/golden_carrot/golden_cooked_beef"},
+		{"predicate": {"custom_model_data":5}, "model": "item/golden_carrot/golden_cooked_chicken"},
+		{"predicate": {"custom_model_data":6}, "model": "item/golden_carrot/golden_cooked_cod"},
+		{"predicate": {"custom_model_data":7}, "model": "item/golden_carrot/golden_cooked_mutton"},
+		{"predicate": {"custom_model_data":8}, "model": "item/golden_carrot/golden_cooked_porkchop"},
+		{"predicate": {"custom_model_data":9}, "model": "item/golden_carrot/golden_cooked_rabbit"},
+		{"predicate": {"custom_model_data":10}, "model": "item/golden_carrot/golden_cooked_salmon"},
+		{"predicate": {"custom_model_data":11}, "model": "item/golden_carrot/golden_cookie"},
+		{"predicate": {"custom_model_data":12}, "model": "item/golden_carrot/golden_dried_kelp"},
+		{"predicate": {"custom_model_data":13}, "model": "item/golden_carrot/golden_glow_berries"},
+		{"predicate": {"custom_model_data":14}, "model": "item/golden_carrot/golden_melon_slice"},
+		{"predicate": {"custom_model_data":15}, "model": "item/golden_carrot/golden_pumpkin_pie"},
+		{"predicate": {"custom_model_data":16}, "model": "item/golden_carrot/golden_sweet_berries"},
+		{"predicate": {"custom_model_data":17}, "model": "item/golden_carrot/golden_potato"}
+	]
+}
