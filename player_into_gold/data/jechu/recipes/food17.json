@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GGG",
+        "GEG",
+        "GGG"
+    ],
+    "key": {
+      "E": {
+        "item": "minecraft:potato"
+      },
+      "G": {
+        "item": "minecraft:gold_ingot"
+      }
+    },
+    "result": {
+      "item": "minecraft:knowledge_book"
+    }
+  }
