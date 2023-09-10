@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "jechu:food8"
+            }
+        }
+    },
+    "rewards": {
+        "function": "jechu:foods/give-food/food8"
+    }
+}
