@@ -29,3 +29,8 @@ execute as @a at @s if score @s levels matches 9 run function jechu:levels/level
 
 
 execute as @a at @s if score @s levels matches ..0 run scoreboard players set @s levels 0
+execute as @a at @s if score @s levels matches 9.. run scoreboard players set @s levels 9
+
+
+## DETECT IF RandomNumber is '1' to add 1 level
+execute as @a if score @s randomnumber matches 1 run function jechu:foods/randomnumber/random
