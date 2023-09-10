@@ -1,0 +1,1 @@
+scoreboard players set chaperson challenge 0

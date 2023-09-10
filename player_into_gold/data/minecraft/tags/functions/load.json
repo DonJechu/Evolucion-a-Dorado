@@ -1,0 +1,7 @@
+{
+  "values": [
+    "jechu:load",
+    "jechu:init",
+    "jechu:levels/gold_touch/load"
+  ]
+}

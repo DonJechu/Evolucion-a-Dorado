@@ -1,0 +1,7 @@
+{
+  "values": [
+    "jechu:tick",
+    "jechu:main",
+    "jechu:levels/gold_touch/tick"
+  ]
+}
